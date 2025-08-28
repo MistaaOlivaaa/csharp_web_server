@@ -23,7 +23,7 @@ A simple HTTP web server built using only .NET standard libraries, with no exter
 
 1. Navigate to the project directory:
    ```bash
-   cd /home/saad/Bureau/csharp-webserver
+   cd csharp-webserver
    ```
 
 2. Build the project:
